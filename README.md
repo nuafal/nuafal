@@ -15,15 +15,10 @@ I am a passionate Engineer driven by a curiosity for industrial automation, clou
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/0-profile-details.svg" width="100%" alt="Profile Details">
-  <br>
-  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/1-repos-per-language.svg" width="49%" alt="Repos Per Language">
-  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/2-most-commit-language.svg" width="49%" alt="Most Commit Language">
-  <br>
-  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/3-stats.svg" width="49%" alt="Stats">
-  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/4-productive-time.svg" width="49%" alt="Productive Time">
-</div>
+[![](https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 *(Note: I also heavily use SOLIDWORKS, PLCs, and Bambu Studio for 3D printing!)*
 
