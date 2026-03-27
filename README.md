@@ -15,8 +15,17 @@ I am a passionate Engineer driven by a curiosity for industrial automation, clou
 
 ## Tech Stack
 
-[](https://skillicons.dev)
-*(Note: I also heavily use SOLIDWORKS, PLCs, and Bambu Studio for 3D printing\!)*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/0-profile-details.svg" width="100%" alt="Profile Details">
+  <br>
+  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/1-repos-per-language.svg" width="49%" alt="Repos Per Language">
+  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/2-most-commit-language.svg" width="49%" alt="Most Commit Language">
+  <br>
+  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/3-stats.svg" width="49%" alt="Stats">
+  <img src="https://raw.githubusercontent.com/nuafal/nuafal/main/profile-summary-cards/profile/dracula/4-productive-time.svg" width="49%" alt="Productive Time">
+</div>
+
+*(Note: I also heavily use SOLIDWORKS, PLCs, and Bambu Studio for 3D printing!)*
 
 ## 🌱 Currently Exploring
 
