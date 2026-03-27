@@ -1,49 +1,32 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Naufal Lofty\! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<nuafal>'s Stats](https://github-readme-stats.vercel.app/api?nuafal=<nuafal>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am a passionate Engineer driven by a curiosity for industrial automation, cloud computing, and 3D design. My journey involves bridging the gap between hardware and software, exploring new technologies, and continuously expanding my engineering skill set.
 
 ## 🚀 About Me
 
+  - 🔭 I'm currently working as an Automation Engineer
+  - 🎓 I hold a Bachelor's degree in Mechatronics Engineering.
+  - 📜 I am certified recently with AWS Cloud Practitioner certification.
+  - ⚙️ I have extensive experience in industrial automation, robotics, manufacturing processes, and creating 3D designs using SOLIDWORKS.
 
-## My Articles
+## 🛠️ My Projects
 
+  - **Serverless Portfolio Website:** Built and configured a personal portfolio hosted entirely on AWS utilizing S3, CloudFront, Lambda, and API Gateway to showcase my cloud projects.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[](https://skillicons.dev)
+*(Note: I also heavily use SOLIDWORKS, PLCs, and Bambu Studio for 3D printing\!)*
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+  - 🐍 **Learning Python:** Working through CS50 assignments to sharpen my programming logic.
+  - ☁️ **Cloud Engineering:** Deepening my practical knowledge of AWS architecture and services.
+  - 🖨️ **3D Printing:** Troubleshooting, designing jigs, and exploring business ideas with my Bambu Lab P1S 3D printer.
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://my.linkedin.com/in/naufal-lofty)
+  - 📫 Reach out to me via email: [naufallofty@gmail.com](mailto:naufallofty@gmail.com)
+  - 💼 Connect with me on [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-----
